@@ -2,8 +2,7 @@
 ## Class Diagram
 ![image](https://github.com/nathanielyeldo/OOAD-IsA-Relationship-Banking/assets/56597570/619be344-2a05-4768-9ff5-0e3d8f8f0736)
 
-### - Facing some issue with ClassDiagram.png file!!!. Please refer the above class diagram for the same.
-Domain: Banking
+### Domain: Banking
 
 Use case : When a customer attempts to deposit money, the list of all accounts which the customers possess should be listed so that the customer can select to which account he would like to deposit the money.[Hint: Customer has Accounts] . Customer can have the following accounts
 
